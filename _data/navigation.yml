@@ -1,7 +1,5 @@
 main:
   - title: "Assignments"
     url: /assignments/
-  - title: "Tags"
-    url: /tags/
   - title: "About Me"
     url: /about/
