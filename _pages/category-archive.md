@@ -1,6 +1,8 @@
 ---
-title: "Posts by Category"
+title: "Assignments"
 layout: categories
-permalink: /categories/
+permalink: /posts/
 author_profile: true
 ---
+
+trial 1
