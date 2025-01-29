@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Amal Almazrouei"
   avatar : "/assets/images/pfp.jpg"
-  bio    : "This is my first website, very cool :)"
+  bio    : "Manus et Machina"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
