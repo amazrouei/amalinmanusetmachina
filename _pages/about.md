@@ -8,4 +8,4 @@ last_modified_at: 2025-01-29T11:59:26-04:00
 toc: true
 ---
 
-I have created this website for a class I am currently enrolled in at NYUAD called Manus et Machina
+This website is creat for a class I am currently enrolled in at NYUAD called Manus et Machina

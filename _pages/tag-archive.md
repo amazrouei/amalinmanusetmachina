@@ -1,6 +1,7 @@
 ---
-title: "Posts by Tag"
-permalink: /tags/
+title: "Assignments"
+permalink: /assignments/
 layout: tags
 author_profile: true
 ---
+
